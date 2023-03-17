@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ### My Github stats:
-![github stats](https://github-readme-stats.vercel.app/api?username=alifshelviano&show_icons=true&theme=radical)
-![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=alifshelviano&layout=compact&theme=nightowl)
+![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=alifshelviano&show_icons=true&theme=radical)
+![github toplang](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alifshelviano&layout=compact&theme=nightowl)
