@@ -1,7 +1,9 @@
 ### Hi there 👋
 🚀 Welcome to my GitHub!
 
-I'm passionate about coding and creating innovative solutions. Explore my projects and check out my latest work on my GitHub page: alifshelviano.github.io.
+I'm passionate about coding and creating innovative solutions. Explore my projects and check out my latest work on my GitHub page: 
+[alifshelviano.github.io.](https://alifshelviano.github.io/)
+
 
 👇 GitHub Stats:
 <!--
