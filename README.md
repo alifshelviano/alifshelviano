@@ -1,5 +1,11 @@
 ### Hi there 👋
+🚀 Welcome to my GitHub!
 
+I'm passionate about coding and creating innovative solutions. Explore my projects and check out my latest work on my GitHub page: alifshelviano.github.io.
+
+👇 GitHub Stats:
+
+Feel free to reach out and collaborate! 🤝✨
 <!--
 **alifshelviano/alifshelviano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
