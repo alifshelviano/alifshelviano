@@ -6,9 +6,7 @@ Explore my projects and check out my latest work on my GitHub page:
 👇
 [alifshelviano.github.io.](https://alifshelviano.github.io/)
 
-[alifshelviano.github.io.](https://alifshelviano.github.io/)
 
-[alifshelviano.github.io.](https://alifshelviano.github.io/)
 
 👇 GitHub Stats:
 <!--
